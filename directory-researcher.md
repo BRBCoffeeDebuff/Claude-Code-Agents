@@ -1,5 +1,4 @@
 │ directory-researcher                                                                                                                                                                                          │
-│ /home/perry/.claude/agents/directory-researcher.md                                                                                                                                                            │
 │                                                                                                                                                                                                               │
 │ Description (tells Claude when to use this agent):                                                                                                                                                            │
 │   Use this agent when you need to analyze, understand, or extract information from a specific directory or set of directories. This agent is designed for parallel execution, meaning multiple instances can  │
