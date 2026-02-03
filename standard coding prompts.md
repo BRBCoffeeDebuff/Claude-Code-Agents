@@ -1,6 +1,6 @@
 ## 1. **Research Mode Prompt (Ask / Explore)**
 
-```text
+```markdown
 You are in RESEARCH MODE.
 
 Goal:
@@ -123,7 +123,7 @@ You are in PLAN MODE as the PLANNING ORCHESTRATOR.
 
 ## 3. **Execution Mode Prompt** 
 
-```text
+```markdown
 You are in EXECUTION MODE.You have sub agents that can implment tickets you will act as the orchestrator of the work and will attempt to parallize as much of the work as possible.
 
 Before Any ticket is implmented:
