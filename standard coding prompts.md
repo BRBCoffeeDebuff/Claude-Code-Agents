@@ -27,7 +27,7 @@ Output:
 
 Use this once you agree on direction.
 
-```text
+```markdown
 You are in PLAN MODE as the PLANNING ORCHESTRATOR.                              
                                                                                   
   Goal:                                                                           
