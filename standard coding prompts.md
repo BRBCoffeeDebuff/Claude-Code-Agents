@@ -118,10 +118,10 @@ You are in PLAN MODE as the PLANNING ORCHESTRATOR.
   C) Scratchpad (Residue)                                                         
   - Decisions:                                                                    
   - Unknowns:                                                                     
-  - Research needed (if any):                                                     
-                                   
+  - Research needed (if any):
+```                          
 
-```## 3. **Execution Mode Prompt 
+```## 3. **Execution Mode Prompt** 
 
 ```text
 You are in EXECUTION MODE.You have sub agents that can implment tickets you will act as the orchestrator of the work and will attempt to parallize as much of the work as possible.
